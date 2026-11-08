@@ -1,0 +1,10 @@
+build/
+build-*/
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+compile_commands.json
+.west/
+.cache/
