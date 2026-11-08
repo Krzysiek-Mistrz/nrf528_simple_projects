@@ -1,0 +1,3 @@
+[submodule "embedkit"]
+	path = embedkit
+	url = git@github.com:Krzysiek-Mistrz/embedkit.git
